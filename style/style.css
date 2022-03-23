@@ -1,0 +1,53 @@
+.container {
+  border-radius: 10px;
+  height: 550px;
+  margin-top: 30px;
+  margin-left: 70px;
+  margin-right: 70px;
+  margin-bottom: 30px;
+  padding: 1px;
+}
+.logo {
+  border-radius: 22px;
+}
+body {
+  background-image: url("../images/pc3.jpg");
+  background-size: 100%;
+  background-position-x: center;
+  background-position-y: center;
+}
+.note {
+  background-color: rgb(215, 215, 241);
+  opacity: 0.3;
+  padding: 2px;
+  text-align: center;
+  border-radius: 10px;
+}
+h6 small {
+  color: rgb(12, 12, 10);
+}
+h6 {
+  color: rgb(11, 11, 14);
+}
+.content {
+  padding-top: 18px;
+  padding-left: 50px;
+  padding-right: 10px;
+  padding-bottom: 15px;
+}
+.get {
+  justify-content: center;
+}
+button {
+  border-radius: 25px;
+  font-size: 15px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+.footer {
+  text-align: left;
+  margin: 6px;
+}
+.footer p {
+  margin-bottom: 3px;
+  padding-top: 1px;
+}
